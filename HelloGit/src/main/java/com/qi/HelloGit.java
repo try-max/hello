@@ -14,5 +14,6 @@ public class HelloGit {
         System.out.println("分支tianjia");
         System.out.println("创建分支master");
         System.out.println("分支添加");
+        System.out.println("在线更新");
     }
 }
